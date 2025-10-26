@@ -12,3 +12,8 @@ list.reverse()
 print(list)
 list.clear()
 print(list)
+
+
+
+#list is mutable ...sort and pop like functions give return value as well
+#list is collecton of multiple datatypes

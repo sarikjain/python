@@ -8,6 +8,3 @@ print(intro2)
 
 
 #escape sequence helps to use some commands under restriction
-
-name="sarik"
-print("good afternoon",name)

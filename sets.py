@@ -17,3 +17,10 @@ print(o.issuperset({1,2,3,4,5,6,7,8,9,20}))
 print(o.union(p))
 print(o.intersection(p))
 o.clear()
+print(o)
+s.add(9)
+print(o)
+
+
+# sets is collection of well defined objects
+

@@ -14,3 +14,7 @@ print(shortname2)
 
 
 print(name[3:])
+
+#slicing and indexing helps to point any one place of string
+#strings are immutable unlike lists
+

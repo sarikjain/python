@@ -5,3 +5,9 @@ print(b)
 name="sarik"
 b=type(name)
 print(b)
+
+
+
+
+
+#typecasting and determination of type of any variable can be found by this code
